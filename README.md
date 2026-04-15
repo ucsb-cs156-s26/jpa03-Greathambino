@@ -1,7 +1,7 @@
 # STARTER-jpa03
 
 
-Running at: <https://ucsb-cs156-s26.github.io/jpa03-Greathambino/>
+Running at: <https://jpa02-greathambino.dokku-07.cs.ucsb.edu>
 
 
 # Configuring GitHub Pages for the documentation
